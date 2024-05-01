@@ -7,10 +7,10 @@
 [![adepauldami](./imgs/paul2.jpg)](https://github.com/adepauldami/about-ade-paul-dami) <br/><br/>
 
 
-## Here's a little about me and what I have built and what I love to do.
+# Here's a little about me and what I have built and what I love to do.
 
 
-### What I have built:
+## What I have built:
 
 ### Binnox Apps
 #### (Rider app, User app and Business app) <br/>
@@ -62,7 +62,7 @@
 ### Blue Data App
 (yet to be released) <br/>
 
-### What I love doing:
+## What I love doing:
 
 #### 1. Flutter and Dart Development:<br/>
 I specialize in Flutter and Dart, which means I build cross-platform mobile applications that work seamlessly on both Android and iOS devices. I enjoy using Flutter's rich widgets to create beautiful, responsive user interfaces. Dart's flexibility allows me to design robust data models and implement complex business logic, so my apps not only look good but also work flawlessly.
