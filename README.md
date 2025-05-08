@@ -64,10 +64,7 @@
 
 ### Prosper Data App
 #### Click to view on playstore [Prosper Data App](https://play.google.com/store/apps/details?id=com.business.prosper_databiz) <br/> <br/><br/>
-https://play-lh.googleusercontent.com/SmonRliQpeY3RU6VZt3XkqEBJ_nu5ZFKqtbcMYOgBgRvMsXB65cFh9193Z_gOvuT9AP-=w526-h296-rw <br/>
-https://play-lh.googleusercontent.com/jdKXF2O3sTg2OP5n7wA0rt_qPG237hgiNJX8wafyP6sC06SSbQuH43Vr048WE79tpOB1=w526-h296-rw <br/>
-https://play-lh.googleusercontent.com/gVSjwih7-v0dYu_6Xy39wo02SVxknwRXfYQaQ2A6prhsx8vK5cwej0iueCvi0fd3Gg=w526-h296-rw <br/>
-https://play-lh.googleusercontent.com/wMnM7EKrFMqWkd7I7h-QFeeM8mAOuuRyPf9jcT1qMdpeu2p5RZnr-E1WAOurVAM8B-dC=w526-h296-rw <br/>
+
 
 ### Gamified Physics Learning Website
 #### Click to view [Gamified Physics Learning Website](physicsquizlet.org.ng) <br/> <br/><br/>
