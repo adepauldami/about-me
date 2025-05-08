@@ -39,7 +39,7 @@
 
 ### Carbs Apps
 #### (Rider app and User app) <br/>
-(yet to be released)
+#### [Carb](https://play.google.com/store/apps/details?id=com.carbnigeria.carb) <br/> <br/><br/>
 #### [Carbs Rider](/imgs/carb_rider.png) <br/> <br/><br/>
 [![Carbs Rider](./imgs/carb_rider.png)]() <br/><br/><br/><br/>
 #### [Carbs Driver](/imgs/carb_driver.png) <br/> <br/><br/>
@@ -62,16 +62,26 @@
 ### Blue Data App
 (yet to be released) <br/>
 
+### Prosper Data App
+#### [Prosper Data App](https://play.google.com/store/apps/details?id=com.business.prosper_databiz) <br/> <br/><br/>
+https://play-lh.googleusercontent.com/SmonRliQpeY3RU6VZt3XkqEBJ_nu5ZFKqtbcMYOgBgRvMsXB65cFh9193Z_gOvuT9AP-=w526-h296-rw <br/>
+https://play-lh.googleusercontent.com/jdKXF2O3sTg2OP5n7wA0rt_qPG237hgiNJX8wafyP6sC06SSbQuH43Vr048WE79tpOB1=w526-h296-rw <br/>
+https://play-lh.googleusercontent.com/gVSjwih7-v0dYu_6Xy39wo02SVxknwRXfYQaQ2A6prhsx8vK5cwej0iueCvi0fd3Gg=w526-h296-rw <br/>
+https://play-lh.googleusercontent.com/wMnM7EKrFMqWkd7I7h-QFeeM8mAOuuRyPf9jcT1qMdpeu2p5RZnr-E1WAOurVAM8B-dC=w526-h296-rw <br/>
+
+### Gamified Physics Learning Website
+#### [Gamified Physics Learning Website](physicsquizlet.org.ng) <br/> <br/><br/>
+
 ## What I love doing:
 
 #### 1. Flutter and Dart Development:<br/>
 I specialize in Flutter and Dart, which means I build cross-platform mobile applications that work seamlessly on both Android and iOS devices. I enjoy using Flutter's rich widgets to create beautiful, responsive user interfaces. Dart's flexibility allows me to design robust data models and implement complex business logic, so my apps not only look good but also work flawlessly.
 
 #### 2. Backend Development with Appwrite:<br/>
-On the backend side, I use Appwrite, which gives me essential features like authentication, databases, storage, and real-time communication. This setup allows me to focus on building the frontend without worrying about the complexities of setting up a full backend infrastructure from scratch.
+On the backend side, I use Appwrite, Elysia js + Typescript & Dart, which gives me essential features like authentication, databases, storage, and real-time communication. This setup allows me to focus on building the frontend without worrying about the complexities of setting up a full backend infrastructure from scratch.
 
 #### 3. Graphics and Branding:<br/>
-I also have a knack for graphics and branding. I create eye-catching graphics for my app interfaces and branding materials. I know how important it is for projects to have a consistent and appealing visual identity, so I put a lot of effort into creating a cohesive look.
+I also have passion for graphics and branding. I create eye-catching graphics for my app interfaces and branding materials. I know how important it is for projects to have a consistent and appealing visual identity, so I put a lot of effort into creating a cohesive look.
 
 #### 4. Cybersecurity and Certified Hacking:<br/>
 I'm a certified hacker with some experience in cybersecurity. This background gives me a security-first approach to building software. I ensure that my applications are secure and follow best practices to protect against vulnerabilities and attacks. It's essential to me that the code I write is not only functional but also safe.
