@@ -14,14 +14,14 @@
 
 ### Binnox Apps
 #### (Rider app, User app and Business app) <br/>
-#### [Binnox](https://play.google.com/store/apps/details?id=com.app.binnox) <br/> <br/><br/>
+#### Click to view on playstore [Binnox](https://play.google.com/store/apps/details?id=com.app.binnox) <br/> <br/><br/>
 [![Binnox](./imgs/binnox.png)](https://play.google.com/store/apps/details?id=com.app.binnox) <br/><br/>
 [![Binnox](./imgs/binnox_share.png)](https://play.google.com/store/apps/details?id=com.app.binnox) <br/><br/>
 [![Binnox](./imgs/binnox_payment_i.png)](https://play.google.com/store/apps/details?id=com.app.binnox) <br/><br/>
 [![Binnox](./imgs/binnox_invite.png)](https://play.google.com/store/apps/details?id=com.app.binnox) <br/><br/>
 [![Binnox](./imgs/binnox_dashboard.png)](https://play.google.com/store/apps/details?id=com.app.binnox) <br/><br/> <br/><br/>
 
-#### [Binnox Rider](https://play.google.com/store/apps/details?id=com.binnox.rider) <br/> <br/><br/>
+#### Click to view on playstore [Binnox Rider](https://play.google.com/store/apps/details?id=com.binnox.rider) <br/> <br/><br/>
 [![Binnox](./imgs/binnox_rider.png)](https://play.google.com/store/apps/details?id=com.binnox.rider) <br/><br/>
 [![Binnox](./imgs/binnox_rider_profile.png)](https://play.google.com/store/apps/details?id=com.binnox.rider) <br/><br/>
 [![Binnox](./imgs/binnox_rider_order.png)](https://play.google.com/store/apps/details?id=com.binnox.rider) <br/><br/>
@@ -30,7 +30,7 @@
 [![Binnox](./imgs/binnox_rider_finance.png)](https://play.google.com/store/apps/details?id=com.binnox.rider) <br/><br/>
 
 
-#### [Binnox Business](https://play.google.com/store/apps/details?id=com.binnox.business) <br/> <br/><br/>
+#### Click to view on playstore [Binnox Business](https://play.google.com/store/apps/details?id=com.binnox.business) <br/> <br/><br/>
 [![Binnox](./imgs/binnox_business.png)](https://play.google.com/store/apps/details?id=com.binnox.business) <br/><br/>
 [![Binnox](./imgs/binnox_business_add_product.png)](https://play.google.com/store/apps/details?id=com.binnox.business) <br/><br/>
 [![Binnox](./imgs/binnox_business_finace.png)](https://play.google.com/store/apps/details?id=com.binnox.business) <br/><br/>
@@ -39,7 +39,7 @@
 
 ### Carbs Apps
 #### (Rider app and User app) <br/>
-#### [Carb](https://play.google.com/store/apps/details?id=com.carbnigeria.carb) <br/> <br/><br/>
+#### Click to view on playstore [Carb](https://play.google.com/store/apps/details?id=com.carbnigeria.carb) <br/> <br/><br/>
 #### [Carbs Rider](/imgs/carb_rider.png) <br/> <br/><br/>
 [![Carbs Rider](./imgs/carb_rider.png)]() <br/><br/><br/><br/>
 #### [Carbs Driver](/imgs/carb_driver.png) <br/> <br/><br/>
@@ -63,14 +63,14 @@
 (yet to be released) <br/>
 
 ### Prosper Data App
-#### [Prosper Data App](https://play.google.com/store/apps/details?id=com.business.prosper_databiz) <br/> <br/><br/>
+#### Click to view on playstore [Prosper Data App](https://play.google.com/store/apps/details?id=com.business.prosper_databiz) <br/> <br/><br/>
 https://play-lh.googleusercontent.com/SmonRliQpeY3RU6VZt3XkqEBJ_nu5ZFKqtbcMYOgBgRvMsXB65cFh9193Z_gOvuT9AP-=w526-h296-rw <br/>
 https://play-lh.googleusercontent.com/jdKXF2O3sTg2OP5n7wA0rt_qPG237hgiNJX8wafyP6sC06SSbQuH43Vr048WE79tpOB1=w526-h296-rw <br/>
 https://play-lh.googleusercontent.com/gVSjwih7-v0dYu_6Xy39wo02SVxknwRXfYQaQ2A6prhsx8vK5cwej0iueCvi0fd3Gg=w526-h296-rw <br/>
 https://play-lh.googleusercontent.com/wMnM7EKrFMqWkd7I7h-QFeeM8mAOuuRyPf9jcT1qMdpeu2p5RZnr-E1WAOurVAM8B-dC=w526-h296-rw <br/>
 
 ### Gamified Physics Learning Website
-#### [Gamified Physics Learning Website](physicsquizlet.org.ng) <br/> <br/><br/>
+#### Click to view [Gamified Physics Learning Website](physicsquizlet.org.ng) <br/> <br/><br/>
 
 ## What I love doing:
 
